@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mano Ranjitham
+# 👋 Hi, I'm Manoranjitham
 
 🎓 AI & Data Science Student  
 💡 Passionate about building intelligent systems and solving real-world problems  
